@@ -32,6 +32,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Customer insights gathered (with Customer Liaison if applicable)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
@@ -41,3 +42,7 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Related Resources
+- [Roles and Personas](octoacme-roles-and-personas.md) — See Customer Liaison for customer feedback and Product Manager for defining success metrics
+- [Role-Specific Checklists and Templates](octoacme-role-checklists-and-templates.md) — See Customer Feedback Template

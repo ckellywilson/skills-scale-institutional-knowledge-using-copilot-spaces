@@ -40,4 +40,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (with QA Analyst)
+- [ ] Communication plan created (with Communications Lead)
+- [ ] Metrics and success criteria defined (with Metrics/Analytics Owner)
+
+## Related Resources
+- [Roles and Personas](octoacme-roles-and-personas.md) — See Customer Liaison for feedback gathering, QA Analyst for test planning, and Metrics/Analytics Owner for metrics framework
+- [Role-Specific Checklists and Templates](octoacme-role-checklists-and-templates.md) — RACI matrix template for role clarity

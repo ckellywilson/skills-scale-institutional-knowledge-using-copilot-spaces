@@ -3,6 +3,13 @@
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
+## Key Roles
+- **Project Manager**: Coordinates execution and tracks progress
+- **QA Analyst**: Validates quality and ensures acceptance criteria are met. See [Roles and Personas](octoacme-roles-and-personas.md#qa-analyst) for detailed responsibilities.
+- **Metrics/Analytics Owner**: Tracks performance metrics and provides data-driven insights. See [Roles and Personas](octoacme-roles-and-personas.md#metricsanalytics-owner) for detailed responsibilities.
+
+For QA checklists and test templates, see [Role-Specific Checklists and Templates](octoacme-role-checklists-and-templates.md#qa-analyst-checklist). For metrics reporting templates, see [Role-Specific Checklists and Templates](octoacme-role-checklists-and-templates.md#metricsanalytics-owner-checklist).
+
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
