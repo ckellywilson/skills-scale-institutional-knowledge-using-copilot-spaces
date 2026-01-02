@@ -29,8 +29,14 @@ Our projects follow a five-phase lifecycle:
 - **Project Manager (PM)**: Coordinates delivery, schedules, risk management, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, measures success
 - **Developers**: Implement features, collaborate on design and testability
-- **QA/Testing**: Validate quality and acceptance criteria
+- **QA Analyst**: Validates quality, designs test cases, ensures acceptance criteria are met
+- **Release Manager**: Oversees release planning, deployment, and rollback procedures
+- **Communications Lead**: Manages stakeholder communications and documentation standards
+- **Customer Liaison**: Represents customer voice, gathers feedback, validates solutions
+- **Metrics/Analytics Owner**: Tracks performance metrics, provides data-driven insights
 - **Stakeholders**: Provide inputs, feedback, and approvals
+
+_For complete role descriptions, responsibilities, and collaboration patterns, see [Roles and Personas](octoacme-roles-and-personas.md)._
 
 ## Communication Cadence
 
@@ -52,7 +58,10 @@ Our projects follow a five-phase lifecycle:
 High-level introduction to OctoAcme's project management approach, including principles, roles, key artifacts, and lifecycle phases. **Read this first** to understand our overall philosophy.
 
 #### [Roles and Personas](octoacme-roles-and-personas.md)
-Detailed definitions of responsibilities, goals, and communication patterns for Developers, Product Managers, and Project Managers. Essential for understanding who does what.
+Detailed definitions of responsibilities, goals, and communication patterns for all project roles including Developers, Product Managers, Project Managers, Release Managers, Communications Leads, QA Analysts, Customer Liaisons, and Metrics/Analytics Owners. Essential for understanding who does what and how roles collaborate.
+
+#### [Role-Specific Checklists and Templates](octoacme-role-checklists-and-templates.md)
+Practical checklists, templates, and RACI matrices for each role. Use these to ensure consistent execution of responsibilities and maintain accountability across the project team.
 
 ### Process Documentation
 

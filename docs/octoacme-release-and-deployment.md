@@ -3,6 +3,9 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+## Release Manager Role
+The Release Manager owns the release process and coordinates all deployment activities. See [Roles and Personas](octoacme-roles-and-personas.md#release-manager) for detailed responsibilities. For practical checklists, refer to [Role-Specific Checklists and Templates](octoacme-role-checklists-and-templates.md#release-manager-checklist).
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements

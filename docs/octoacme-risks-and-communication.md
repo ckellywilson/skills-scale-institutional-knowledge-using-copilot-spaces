@@ -3,6 +3,12 @@
 ## Purpose
 Explain how to identify, manage, and communicate risks and dependencies.
 
+## Key Roles
+- **Project Manager**: Owns the risk register and coordinates mitigation efforts
+- **Communications Lead**: Manages stakeholder communications and ensures consistent messaging. See [Roles and Personas](octoacme-roles-and-personas.md#communications-lead) for detailed responsibilities.
+
+For communication templates and checklists, see [Role-Specific Checklists and Templates](octoacme-role-checklists-and-templates.md#communications-lead-checklist).
+
 ## Risk Register
 Maintain a simple table with:
 - ID

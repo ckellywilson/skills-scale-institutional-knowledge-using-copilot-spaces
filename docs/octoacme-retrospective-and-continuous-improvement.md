@@ -31,3 +31,8 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Review metrics trends with Metrics/Analytics Owner to identify improvement opportunities
+
+## Related Resources
+- [Roles and Personas](octoacme-roles-and-personas.md) — All roles participate in retrospectives
+- [Role-Specific Checklists and Templates](octoacme-role-checklists-and-templates.md) — See RACI matrix for retrospective responsibilities
